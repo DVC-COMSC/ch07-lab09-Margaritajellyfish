@@ -8,5 +8,5 @@ for i in range(len(names)):
     if len(names[i]) > longest:
         longest = name[i]
     if len(names[i]) < shortest:
-        shotest = names[i]
+        shortest = names[i]
 print(shortest, longest)
