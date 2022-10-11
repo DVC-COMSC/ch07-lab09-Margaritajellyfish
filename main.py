@@ -1,7 +1,7 @@
 # ******************************
 # Make your Code
 # ******************************
-numbes = list(map(str, input().split()))
+numes = list(map(str, input().split()))
 longest = 0
 shortest = 99
 for i in range(len(names)):
